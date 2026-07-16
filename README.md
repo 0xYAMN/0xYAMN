@@ -5,6 +5,7 @@
 I'm a 22-year-old Electrical Engineering student based in Aachen.
 
 I work as student assistant in the Institute of Rail Vehicles at RWTH Aachen. 
+
 In the past I was Head of Embedded Systems at Ecurie Aix Formula Student Team RWTH Aachen e.V.
 
 [LinkedIn](https://www.linkedin.com/in/yannick-monjeamb-0061a7235/)
